@@ -1,4 +1,4 @@
----
+github:main---
 title: Understanding how GitHub uses and protects your data
 redirect_from:
   - /categories/understanding-how-github-uses-and-protects-your-data
